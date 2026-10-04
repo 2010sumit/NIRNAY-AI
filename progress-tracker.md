@@ -1,0 +1,29 @@
+# Progress Tracker
+
+- [x] Foundation
+- [x] Architecture
+- [x] Database
+- [x] Authentication
+- [x] Backend
+- [ ] AI ingestion
+- [ ] Transcription
+- [ ] Decision extraction
+- [ ] Commitment extraction
+- [ ] Entity extraction
+- [ ] Decision versioning
+- [x] Document investigation UI
+- [x] Natural language Q&A
+- [x] Conflict detection
+- [x] Impact analysis
+- [x] Dashboard
+- [ ] Meeting detail
+- [ ] Decision detail
+- [ ] Alerts
+- [ ] Search
+- [ ] Analytics
+- [ ] Security
+- [ ] Testing
+- [ ] Demo mode
+- [ ] Documentation
+- [ ] Deployment
+- [ ] Final QA

@@ -1,0 +1,29 @@
+node_modules/
+.next/
+dist/
+build/
+coverage/
+.cache/
+tmp/
+temp/
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# database files
+*.sqlite
+*.sqlite3
